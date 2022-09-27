@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6586016b-2e88-4a75-9359-258296cba8a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClasesJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +34,26 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EjemploEnumeraciones">
+  <component name="RunManager" selected="Application.EjemploSobreescritura">
     <configuration name="EjemploEnumeraciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="enumeraciones.EjemploEnumeraciones" />
       <module name="ClasesJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="enumeraciones.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploSobreescritura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sobreescrituraMetodos.EjemploSobreescritura" />
+      <module name="ClasesJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sobreescrituraMetodos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploSobreescritura" />
         <item itemvalue="Application.EjemploEnumeraciones" />
         <item itemvalue="Application.EjemploVarArgs" />
       </list>
