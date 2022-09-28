@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6586016b-2e88-4a75-9359-258296cba8a0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6586016b-2e88-4a75-9359-258296cba8a0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +32,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PruebaDeClaseObject">
+  <component name="RunManager" selected="Application.EjemploClasesAbstractas">
+    <configuration name="EjemploClasesAbstractas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clasesAbstractas.test.EjemploClasesAbstractas" />
+      <module name="ClasesJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clasesAbstractas.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EjemploEnumeraciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="enumeraciones.EjemploEnumeraciones" />
       <module name="ClasesJava" />
@@ -54,19 +65,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sobreescrituraMetodos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EjemploVarArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="argumentosvariables.EjemploVarArgs" />
-      <module name="ClasesJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="argumentosvariables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploClasesAbstractas" />
         <item itemvalue="Application.PruebaDeClaseObject" />
         <item itemvalue="Application.PruebaConversionObjetos" />
         <item itemvalue="Application.EjemploSobreescritura" />
         <item itemvalue="Application.EjemploEnumeraciones" />
-        <item itemvalue="Application.EjemploVarArgs" />
       </list>
     </recent_temporary>
   </component>
