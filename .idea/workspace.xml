@@ -28,13 +28,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.EjemploSobreescritura">
+}</component>
+  <component name="RunManager" selected="Application.PruebaConversionObjetos">
     <configuration name="EjemploEnumeraciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="enumeraciones.EjemploEnumeraciones" />
       <module name="ClasesJava" />
@@ -74,8 +74,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PruebaConversionObjetos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejemploConversionObjetos.test.PruebaConversionObjetos" />
+      <module name="ClasesJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejemploConversionObjetos.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PruebaConversionObjetos" />
         <item itemvalue="Application.EjemploSobreescritura" />
         <item itemvalue="Application.EjemploEnumeraciones" />
         <item itemvalue="Application.EjemploVarArgs" />
