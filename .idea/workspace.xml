@@ -34,7 +34,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PruebaConversionObjetos">
+  <component name="RunManager" selected="Application.PruebaDeClaseObject">
     <configuration name="EjemploEnumeraciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="enumeraciones.EjemploEnumeraciones" />
       <module name="ClasesJava" />
@@ -87,8 +87,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PruebaDeClaseObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="claseObject.test.PruebaDeClaseObject" />
+      <module name="ClasesJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="claseObject.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PruebaDeClaseObject" />
         <item itemvalue="Application.PruebaConversionObjetos" />
         <item itemvalue="Application.EjemploSobreescritura" />
         <item itemvalue="Application.EjemploEnumeraciones" />
